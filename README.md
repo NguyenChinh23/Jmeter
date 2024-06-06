@@ -1,4 +1,5 @@
 Jmeter
+
 Mục tiêu: Kiểm tra hiệu năng của trang web: https://www.wikipedia.org/
 
 Kịch bản kiểm thử: Giả lập 100 người dùng truy cập trang web với thời gian tăng dần là 100 giây và chỉ thực hiện 1 lần truy cập.
